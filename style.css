@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+.image{
+    height:50vh;
+}
+.body{
+    background-image: url(https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg);
+}
+.items{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.items:hover{
+    color: aqua;
+}
+.anchor{
+    margin-left: auto;
+    width: 300px;
+    font-size: large;
+}
+.para{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.obj{
+    color: gray;
+}
+.box-left{
+    padding-left: 60px;
+    text-align: right;
+}
+.image-sourse{
+    height: 290px;
+}
+.about{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.heading-h1{
+    text-align: center;
+    color: gray;
+}
+.skill-h1{
+    text-align: center;
+    color: gray;
+    
+}
+.skills-have{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.contact-info{
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading-h2{
+    text-align: center;
+    color: gray;
+
+}
+.img-info{
+    height:50px;
+    padding-left: 300px;
+}
